@@ -2,7 +2,7 @@ import re
 import nltk
 from nltk.tokenize import word_tokenize
 
-# nltk.download("punkt")
+nltk.download("punkt")
 
 def preprocess_text(text: str) -> str:
     return re.sub(r"[^\w\s.]", "", text.lower())
