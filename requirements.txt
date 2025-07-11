@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-google-genai
+langchain-cohere
+google-generativeai
+pymupdf
+sentence-transformers
+scikit-learn
+networkx
+nltk
+json-repair
